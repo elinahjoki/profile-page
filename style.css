@@ -18,6 +18,8 @@ body{
     text-align: center;
     border-radius: 15px;
     box-shadow: 5px 10px 24px  #6e6c6c ;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 h2{
     color: white;
